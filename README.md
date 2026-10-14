@@ -1,1 +1,1 @@
-# snapfind-modles
+# snapfind-models
